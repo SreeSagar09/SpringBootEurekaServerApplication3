@@ -1,0 +1,7 @@
+A Program Netflix Eureka R&D server and establishing communication with DiscoveryClient:
+Programs:
+* SpringBootEurekaServerApplication3Application.java
+Notes:
+
+Output:
+Eureka Server url: http://localhost:8761
